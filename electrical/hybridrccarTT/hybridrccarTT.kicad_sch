@@ -1,0 +1,24 @@
+(kicad_sch
+	(version 20250114)
+	(generator "eeschema")
+	(generator_version "9.0")
+	(uuid "d3b268c2-36da-438c-a1fa-ee4bf32aa038")
+	(paper "A4")
+	(lib_symbols)
+	(text "You make stuff here\n"
+		(exclude_from_sim no)
+		(at 131.064 82.042 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "f9c71201-ae3a-43ae-8993-bb5bf644c5d6")
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+	(embedded_fonts no)
+)
