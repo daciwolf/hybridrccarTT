@@ -1495,6 +1495,16 @@
 			(embedded_fonts no)
 		)
 	)
+	(text "You make stuff here\n"
+		(exclude_from_sim no)
+		(at 131.064 82.042 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "f9c71201-ae3a-43ae-8993-bb5bf644c5d6")
+	)
 	(symbol
 		(lib_id "Device:RotaryEncoder")
 		(at 110.49 91.44 0)
